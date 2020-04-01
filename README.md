@@ -1,2 +1,3 @@
 # Automated-Decisioning
-Automated Decisioning in Python that running eligibility and affordability checks 
+Automated Decisioning in Python. Parsing third party data from raw format into readable format and running secondary eligibility and affordability checks. 
+To run the notebook: 1. save files onto desktop, maintaining the same file name and thus path used within the notebook 2. Run script as normal. 
